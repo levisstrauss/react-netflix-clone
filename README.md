@@ -1,5 +1,8 @@
 ========== Netflix application Clone ==========
-git push -u origin master --verbose
+- git push -u origin master --verbose
+- git push -f origin master
+
+
 - Create a react app:
 
        yarn create react-app name
