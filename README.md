@@ -33,8 +33,14 @@
       help structure all the code in the very nice way to follow.
   
       Having the code source and really taking a deep look at it
-      can really help you become a better developer and writing a better at 
+      can really help you become a better developer and writing a better at
       at writing understandable and well writing code.
+
+- Deployment 
+
+      yarn or npm run build
+
+  
 
       ======== Application architecture ======
 
