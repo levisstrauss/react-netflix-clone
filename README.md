@@ -1,4 +1,10 @@
 ========== Netflix application Clone ==========
+
+- Website link if you want to visit it
+
+       https://netflix-clone-applications.netlify.app/
+
+
 - git push -u origin master --verbose
 - git push -f origin master
 
@@ -38,10 +44,12 @@
 
 - Deployment 
 
-      yarn or npm run build
+      1- yarn or npm run build
+      2- Go to netlify and drag your build folder and the rest is
+        personal configuration.
+      
 
   
-
       ======== Application architecture ======
 
 ![](images/application-structures.png)
