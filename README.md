@@ -16,4 +16,4 @@ git push -u origin master --verbose
 
 ======== Screenshot======
 
-![Screenshot](Architecture/Application-Structures.png)
+![](Architecture/Application-Structures.png)
