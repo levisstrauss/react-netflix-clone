@@ -84,7 +84,7 @@
 ![](images/signup.png)
 
 
-    ======== Home Pages ======
+    ======== Home ======
 
 ![](images/home.png)
 
@@ -99,6 +99,6 @@
 
 
 
-    ======== Foter ======
+    ======== Footer ======
 
 ![](images/footer.png)
