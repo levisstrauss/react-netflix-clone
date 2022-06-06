@@ -2,7 +2,12 @@
 
 - Website link if you want to visit it
 
-       https://netflix-clone-applications.netlify.app/
+     https://engineeringprodev.com/
+     
+     If you dont want to create an account, you can use a default credential to login:
+     
+     email: test@gmail.com
+     pw: 123456
 
 
 - git push -u origin master --verbose
