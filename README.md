@@ -2,13 +2,7 @@
 
 - Website link if you want to visit it
 
-     https://engineeringprodev.com/
-     
-     If you dont want to create an account, you can use a default credential to login:
-     
-     email: test@gmail.com
-     pw: 123456
-
+       https:
 
 - git push -u origin master --verbose
 - git push -f origin master
@@ -33,7 +27,7 @@
       
       1- Just create a firebase web setup
       2- Replace the content of lib folder with your own firebase credentials
-      3-  yarn or npm install to install all the dependencies
+      3- yarn or npm install to install all the dependencies
       4- You can also delete the test folder if you don't want to deal with testing at all
       5- You good to go!
 
@@ -43,9 +37,9 @@
       but more importantly, we also have styled components which really 
       help structure all the code in the very nice way to follow.
   
-      Having the code source and really taking a deep look at it
-      can really help you become a better developer and writing a better at
-      at writing understandable and well writing code.
+      Having the code source and really taking a deep look at it, we
+      can really become a better developer in writing a better code that
+      can be understandable by others developers.
 
 - Deployment 
 
