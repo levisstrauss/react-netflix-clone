@@ -1,4 +1,5 @@
 {
+  "homepage": "http://levisstrauss.github.io/React-Netflix-Clone",
   "name": "netflix-application",
   "version": "0.1.0",
   "private": true,
@@ -6,6 +7,7 @@
     "eslint-config-react-app": "^7.0.1",
     "firebase": "^9.8.1",
     "fuse.js": "^6.6.2",
+    "gh-pages": "^4.0.0",
     "normalize.css": "^8.0.1",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
@@ -15,6 +17,8 @@
     "web-vitals": "^2.1.0"
   },
   "scripts": {
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --coverage --watchAll",
